@@ -1,0 +1,19 @@
+"id","id_author","pseudo_author","id_question","content"
+"1","2","007","4","Salut !"
+"2","1","Picjuju84","4","Salut bébé !"
+"id","title","biographie","questions","id_author","pseudo_author","date_publication"
+"3","Jules","Jeune étudiant en école d'informatique. Souriant et sportif. Je suis fan de James Bond !","Quel est ton style de musique préféré ?<br />
+Quel est ton film préféré ?<br />
+Où aimerais tu partir en vacances ?","1","Picjuju84","23/04/2023"
+"4","Marie","Jeune étudiante parisienne en droit, j'adore le café !<br />
+Je pratique la natation depuis mon enfance et je possède 2 chats !","Quelle est la couleur de tes yeux ?<br />
+Où aller pour un premier date ?<br />
+","3","Zoulou","23/04/2023"
+"5","James","My name is Bond.....James Bond !<br />
+","Lequel de mes films à tu le plus aimé ?<br />
+Aimerais tu me rencontrer ?<br />
+Vodka martini...au checker ou à la cuillère ?","2","007","23/04/2023"
+"id","pseudo","lastname","firstname","password"
+"1","Picjuju84","PICHON","Jules","$2y$10$tSgH03p7QV35k28sT3dcWuk15Yp7i5TUGMXL7v5HR9xrF2GVWP6Zu"
+"2","007","BOND","James","$2y$10$aVh.bhAxxZPWj3sTF37kXOmked/MAPqmfbPiey9LaXDwi2U593/7m"
+"3","Zoulou","CAPDEVILLE","Marie","$2y$10$vl8pN8fH83NLMn.W9uSY6eNd1TEjk/TB4xcI1.DjvzqxbWSyx4aFu"

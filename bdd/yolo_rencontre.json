@@ -1,0 +1,24 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"yolo_rencontre"},
+{"type":"table","name":"answers","database":"yolo_rencontre","data":
+[
+{"id":"1","id_author":"2","pseudo_author":"007","id_question":"4","content":"Salut !"},
+{"id":"2","id_author":"1","pseudo_author":"Picjuju84","id_question":"4","content":"Salut bébé !"}
+]
+}
+,{"type":"table","name":"profils","database":"yolo_rencontre","data":
+[
+{"id":"3","title":"Jules","biographie":"Jeune étudiant en école d'informatique. Souriant et sportif. Je suis fan de James Bond !","questions":"Quel est ton style de musique préféré ?<br \/>\r\nQuel est ton film préféré ?<br \/>\r\nOù aimerais tu partir en vacances ?","id_author":"1","pseudo_author":"Picjuju84","date_publication":"23\/04\/2023"},
+{"id":"4","title":"Marie","biographie":"Jeune étudiante parisienne en droit, j'adore le café !<br \/>\r\nJe pratique la natation depuis mon enfance et je possède 2 chats !","questions":"Quelle est la couleur de tes yeux ?<br \/>\r\nOù aller pour un premier date ?<br \/>\r\n","id_author":"3","pseudo_author":"Zoulou","date_publication":"23\/04\/2023"},
+{"id":"5","title":"James","biographie":"My name is Bond.....James Bond !<br \/>\r\n","questions":"Lequel de mes films à tu le plus aimé ?<br \/>\r\nAimerais tu me rencontrer ?<br \/>\r\nVodka martini...au checker ou à la cuillère ?","id_author":"2","pseudo_author":"007","date_publication":"23\/04\/2023"}
+]
+}
+,{"type":"table","name":"users","database":"yolo_rencontre","data":
+[
+{"id":"1","pseudo":"Picjuju84","lastname":"PICHON","firstname":"Jules","password":"$2y$10$tSgH03p7QV35k28sT3dcWuk15Yp7i5TUGMXL7v5HR9xrF2GVWP6Zu"},
+{"id":"2","pseudo":"007","lastname":"BOND","firstname":"James","password":"$2y$10$aVh.bhAxxZPWj3sTF37kXOmked\/MAPqmfbPiey9LaXDwi2U593\/7m"},
+{"id":"3","pseudo":"Zoulou","lastname":"CAPDEVILLE","firstname":"Marie","password":"$2y$10$vl8pN8fH83NLMn.W9uSY6eNd1TEjk\/TB4xcI1.DjvzqxbWSyx4aFu"}
+]
+}
+]
